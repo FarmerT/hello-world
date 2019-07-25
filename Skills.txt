@@ -1,0 +1,248 @@
+Skills and nice to haves tag cloud:
+• Integration Testing, 
+• API Testing, 
+• Functional Testing, 
+• Test Automation Tools, 
+• Robot Framework, 
+• REST, 
+• HTTP, 
+• Computer Security Awareness, 
+• Selenium, 
+• Appium, 
+• JIRA, 
+• Device Testing, 
+• Performance Testing, 
+• Functional Automation, 
+• Programming Experience, 
+• SQL Experience, 
+• SOAPUI, 
+• NewRelic experience, 
+• Security Testing Tools, 
+• Code Analysis Tools, 
+• UI Automation Testing
+
+
+Back End Testing Experience (Blackbox , Whitebox)
+Vsual Studio
+SQL 
+Understanding Stored procedures
+Automation Tools and Frameworks (Selenium Web Driver )
+API testing
+Mongodb
+JMeter
+Postman
+Team City and GIT
+Jira
+ISTQB Foundation
+Knowledge on message brokers (RabbitMQ)
+Robot Framework
+C# coding
+ 
+Automation Testers required
+ 
+Essential 
+Performance
+Selenium
+Regression
+Backend Automation
+UI Automation
+Tech Stack
+Technologies and tools ****************
+JIRA
+Adaptavist
+C#
+Jquery/Java Script
+.net
+JSON
+Team City
+Git Hub
+Nunit
+
+
+• Back end domain knowledge (databases/rest/MQ’s)
+
+• Message exchange patterns (json/soap/xml)
+
+• Front End Domain Knowledge ,Selenium experience (java based)
+
+• Core java skills
+
+• Core problem solving and analytics (Being able to perform basic RCA)
+
+• Scrum/Agile
+
+
+
+•	At least two years’ experience
+•	ISTQB Foundation Certification preferred
+•	Software Development Diploma or Degree
+•	Great written and verbal communication skills
+•	Exposure to SCRUM
+•	Knowledge of BDD
+•	RPA: UIPath or Blue Prism - official training or certification
+•	Passionate about all things related to test automation
+•	SQL knowledge
+•	Intermediate use of C#, VB.NET, or Java
+•	Understanding the SDLC
+•	Experience in gathering requirements
+•	Appium, Selenium experience
+•	Exposure to different automation frameworks: data-driven, keyword-driven, and BDD
+•	Exposure to tools like HP UFT, Ranorex, TestComplete preferred
+•	Performance testing experience in Loadrunner, Neoload, Flood.io, JMeter
+
+
+
+
+
+
+
+
+Software QA Automation Tester (Contract) Location:
+
+Century City, Western Cape Salary
+
+Market Related INTRODUCTION: Opportunity to join one of Africa's largest listed corporate and investment banking groups In Digital Banking we require slightly more technical quality assurers than in more traditional environments. As such we expect even our traditional test analysts or QA engineers to be able to automate most of their testing with a suitable framework (Robot framework is used extensively). However, we still live and operate in a well-regulated industry and as such have strong governance requirements on our projects to provide suitable test evidence for our various initiatives. However, the QA function does not exist in a vacuum and are embedded members in team to support the team with the holistic business testing needs. Typical Tasks:
+Collaboratively work with the rest of the QA guild to refine quality assurance practices and technique within the greater team
+Work with the team to Interpret and implement quality assurance standards for the context of the project
+Continually evaluate on the adequacy of quality assurance standards in their projects
+Devise sampling procedures and directions for recording and reporting quality data
+Review the implementation and efficiency of quality and inspection systems
+Plan, conduct and monitor testing and inspection of materials and products to ensure finished product quality
+Document internal audits and other quality assurance activities
+Investigate customer complaints and non-conformance issues
+Collect and compile statistical quality data
+Analyze data to identify areas for improvement in the quality system
+Develop, recommend and monitor corrective and preventive actions
+Prepare reports to communicate outcomes of quality activities
+Identify training needs and organize training interventions to meet quality standards
+Coordinate and support on-site audits conducted by external providers
+Evaluate audit findings and implement appropriate corrective actions
+Monitor risk management activities
+Responsible for document management systems
+Assure ongoing compliance with quality and industry regulatory requirements Skills and nice to haves tag cloud:
+Integration Testing,
+API Testing,
+Functional Testing,
+Test Automation Tools,
+Robot Framework,
+REST,
+HTTP,
+Computer Security Awareness,
+Selenium,
+Appium,
+JIRA,
+Device Testing,
+Performance Testing,
+Functional Automation,
+Programming Experience,
+SQL Experience,
+SOAPUI,
+NewRelic experience,
+Security Testing Tools,
+Code Analysis Tools,
+UI Automation Testing Closing date: 28 February 2019 Closing 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Qualifications
+
+BSc or BTech majoring in Computer Science is a plus.
+ISTQB Certification is a plus.
+Either above will be an advantageous, however, your ability to demonstrate your in-depth understanding of the web technologies and sound software engineering practices will trump a formal qualification. 
+Desirable Skills and Experience:
+
+Selenium WebDriver/ Automation concepts.
+Java
+CSS
+HTML
+Git/BitBucket
+Jira and/or Confluence
+Java IDE, Jenkins, Maven, etc;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Roles and Responsibilities:
+
+Responsible for the delivery of a well-structure and standard designed, quality assurance solution.
+Report the resolution of issues timeously to avoid unplanned expenses which could result in late delivery and stability issues once operational.
+Work closely with chapter lead, developer, architect, product owner and other stakeholders to meet the expectations of our client(s).
+Build and foster deep relationship with peers, subject matter expert, developer, product owner and other stakeholders through honest communication which align to the Bank’s Values.
+Liaise with stakeholders across Group Technology stakeholders to build a network that will align to the nWoW.
+Participate in the sprint planning, test estimation and success criteria per story.
+Discuss the low level design and functional requirements with the chapter lead, application/solution architect to understand the approach to test automation.
+Collaborate with the Enterprise Quality Assurance core technical team to seek improvements to the test harness, automation framework and overall platform.
+Promote the automation framework and tool adopted by the Enterprise Quality Assurance team.
+Perform ad hoc peer review of the automated test assets being maintained by the Software Test Engineer (STE) to ensure conformance of the process and governance.
+Develop/extend the automation scripts using the automation framework for execution.
+Implement the test automation with the objective that it has adequate coverage within the sprint and can be re-used for regression testing.
+Ensure the solution meet the architectural and development standards that is re-usable and scalable.
+Confirm that the automation test suite implemented is appropriately catalogued.
+Record defect(s) using the pre-defined defect management tool and ensure the relevant information is captured accurately that will assist with the root cause analysis.
+Collaborate with the stakeholder(s) to ensure the resolution of a defect and the root cause analysis is performed and recorded.
+Report status of testing to the quality assurance squad daily.
+Participate in all retrospective reviews.
+Understand and manage my own demand based on expected timelines articulated by the line-management and project expectations.
+Provide guidance to the Software Test Engineers (STE) within the team to improve their technical capabilities.
+Experience:
+
+Minimum of 3 years development experience and 3 testing experience.
+Minimum of 2 year experience in agile delivery and exposure to Test Driven Development, Behaviors Driven Development and in continuous delivery model.
+Proficient in object-orientated Programming (OOP).
+Proficient in development languages; C# & Java
+Proficient in API testing.
+Proficient in Mobile Application development and mobile performance testing.
+Proficient in the use of Soap and RESTFUL services.
+Proficient in the use of Selenium, Appium, Soap UI, Jira, Jenkins, Bit Bucket.
+Experience in the configuration and setup of CI solutions
+Preference:
+
+Preference will be given to applicants with banking experience.
+Only South Africans with degrees / (( Diploma requires solid 5 years banking experience )).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About me
+
+I am a professional and qualified Software Quality Assurance Engineer with Software Development
+experience and I am passionate about IT. I am enthusiastic, self-motivate, innovative, honest, dependable
+and responsible IT professional possessing a positive attitude to grow, learn and cooperate with
+colleagues.
+During my spare time I study new technologies books to stay updated, I do online courses from Udemy,
+Solo learn, w3school and Allison to upskill myself. I am also interested with Web Design, Photoshop, TV
+games and outdoors activities.
